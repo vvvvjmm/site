@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+header,footer{
+  background-color:#162EAE ; 
+  height: ;
+}
+main{
+    background-color:#D9D9D9;
+}
+h1,h2{
+    text-align: center
+}
+img{
+    height: 200px;
+}
+ul{
+    list-style: url="";
+}
+.botton
